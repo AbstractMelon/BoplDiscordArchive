@@ -20,6 +20,10 @@ body {
   color: #00aaff;
 }
 
+.sidebar p {
+  color: #00aaff;
+}
+
 .sidebar ul {
   list-style-type: none;
   padding: 0;
@@ -34,7 +38,7 @@ body {
   color: #e0e0e0;
   padding: 10px;
   border-radius: 4px;
-  /transition: background-color 0.3s;
+  transition: background-color 0.3s;
 }
 
 .sidebar ul li a:hover {
