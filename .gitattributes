@@ -1,0 +1,2 @@
+./pages/* filter=lfs diff=lfs merge=lfs -text
+pages/general.html filter=lfs diff=lfs merge=lfs -text
